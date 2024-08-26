@@ -1,6 +1,6 @@
 # URL Shortener Project
 
-This project sets up a simple URL shortener using Node.js and Express. The server runs on port 3000 and uses a static HTML form for user interaction.
+This project sets up a simple URL shortener using Node.js and Express on AWS Amazon Linux Instance 2023. The server runs on port 3000 and uses a static HTML form for user interaction.
 
 ## Step 1: Connect to Your EC2 Instance
 
