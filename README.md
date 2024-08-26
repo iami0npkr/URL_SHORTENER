@@ -1,4 +1,3 @@
-```markdown
 # URL Shortener Project
 
 This project sets up a simple URL shortener using Node.js and Express. The server runs on port 3000 and uses a static HTML form for user interaction.
@@ -107,9 +106,9 @@ app.listen(PORT, () => {
 ```
 
 **To save and exit in `nano`:**
-- Press `Ctrl + X` to exit.
 - Press `Y` to confirm saving the changes.
 - Press `Enter` to save the file with the current name.
+- Press `Ctrl + X` to exit.
 
 #### Create `public/index.html`
 
@@ -178,10 +177,10 @@ Paste the following code into `public/index.html`:
 ```
 
 **To save and exit in `nano`:**
-- Press `Ctrl + X` to exit.
 - Press `Y` to confirm saving the changes.
 - Press `Enter` to save the file with the current name.
-
+- Press `Ctrl + X` to exit.
+  
 #### Create `public/css/styles.css`
 
 ```bash
@@ -218,10 +217,10 @@ Initialize `urls.json` with an empty object:
 ```
 
 **To save and exit in `nano`:**
-- Press `Ctrl + X` to exit.
 - Press `Y` to confirm saving the changes.
 - Press `Enter` to save the file with the current name.
-
+- Press `Ctrl + X` to exit.
+  
 ## Step 4: Start the Application
 
 Run the server using Node.js:
